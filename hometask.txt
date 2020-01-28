@@ -1,0 +1,15 @@
+Локальная ветка "master" и удалённая ветка "demo" отличаются содержанием файла "README".
+В локальной ветке "master" добавлено "with nice buttons on his jacket (buttons branch)"
+
+В удалённом репозитории в ветке "master" 11 коммитов:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+Hometask file added
